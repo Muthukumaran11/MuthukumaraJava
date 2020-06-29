@@ -10,7 +10,6 @@ ArrayList<Bank> accounts;
 Bank(){
 	accounts = new ArrayList<Bank>();
 	scanner= new Scanner(System.in);
-	
 }
 
 
